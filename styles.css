@@ -1,0 +1,74 @@
+#title{
+    background-color:#c7956d;
+    color: white;
+}
+.navbar{
+    background-color: #c7956d;
+    padding-bottom: 4.5rem;
+
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.first-cookie{
+    width: 50%;
+    border-radius: 100%;
+    position: relative;
+    left: 20%;
+}
+h1{
+    font-family: sans-serif;
+    font-weight: 600;
+    
+}
+p{
+    font-size: large; 
+}
+.icon{
+    padding-top: 2%;
+    text-align: center;
+    
+}
+.tick:hover{
+    color: #c7956d;
+}
+#features{
+    padding: 5%;
+}
+#testimonials{
+    text-align: center;
+    background-color: #c7956d;
+    color: white;
+    padding-top: 5%;
+}
+#press{
+    padding: 2% 2% 5% 2% ;
+    text-align: center;
+}
+.press-logo{
+    width: 20%;
+    margin:  20 px 20px 50px;
+    padding: 2% ;
+    
+}
+#pricing{
+    text-align: center;
+    padding: 100px;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+.pricing-heading{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.pricing-text{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 3rem;
+}
+#footer{
+    text-align: center;
+    background-color: #c7956d;
+    color: white;
+    padding: 1%;
+}
